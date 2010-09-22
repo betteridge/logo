@@ -1,1 +1,1 @@
-Use .eps files for print. (.png files are only for web and demonstration purposes). 
+Use .eps files for print. 
